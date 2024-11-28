@@ -1,4 +1,4 @@
-A list of Brewfile recipes to help get different types of teams started with default packages.
+A list of Brewfile templates to help get different types of teams started with default packages.
 
 ### DevOps Engineers
 
