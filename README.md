@@ -20,6 +20,6 @@ A list of Brewfile templates to help get different types of teams started with d
    
 ### Deploying across your fleet with Workbrew
 
-1. Get started with Workbrew and deploy it to your fleet
+1. [Get started with Workbrew](https://workbrew.com) and deploy it to your fleet
 2. Browse through the available `Brewfile`s in this repository and select one that suits your needs
 3. Go to `console.workbrew.com/workspaces/[your workspace]/brewfiles/new`, copy-paste the Brewfile content and target the default pacakages to all devices or a device group
