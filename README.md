@@ -1,4 +1,4 @@
-A list of Brewfile templates to help get different types of teams started with default packages.
+A list of [Brewfile](https://docs.brew.sh/Brew-Bundle-and-Brewfile) templates to help you bootstrap your device or your teams with default packages installed via Homebrew.
 
 ## How to Use a Brewfile
 
