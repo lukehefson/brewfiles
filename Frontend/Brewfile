@@ -1,0 +1,7 @@
+brew "node"                  # JavaScript runtime for frontend development and npm
+brew "git"                   # Version control system
+brew "yarn"                  # Package manager optimized for JavaScript projects
+brew "typescript"            # Superset of JavaScript that adds static typing
+cask "visual-studio-code"    # Popular code editor for web development
+cask "google-chrome"         # Browser for testing and debugging web apps
+cask "figma"                 # Collaborative design tool for UI/UX work

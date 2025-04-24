@@ -1,0 +1,7 @@
+brew "git"                   # Version control system
+brew "node"                  # JavaScript runtime for backend services and APIs
+brew "docker"                # Container platform for environment consistency
+brew "postgresql"            # Relational database for data storage
+cask "visual-studio-code"    # Flexible code editor for backend development
+cask "postman"               # API development and testing tool
+cask "docker"                # Container management GUI

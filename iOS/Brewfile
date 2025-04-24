@@ -1,0 +1,7 @@
+brew "git"                   # Version control for app source code
+brew "cocoapods"             # Dependency manager for iOS projects
+brew "fastlane"              # Automation for deployment tasks
+brew "swiftlint"             # Code style and linting for Swift projects
+cask "xcode"                 # Integrated development environment for iOS apps
+cask "visual-studio-code"    # Lightweight code editor for supporting tools
+cask "google-chrome"         # Web browser for testing web components

@@ -1,0 +1,10 @@
+brew "git"                   # Version control for managing scripts and configs
+brew "htop"                  # Interactive process viewer for system monitoring
+brew "mas"                   # macOS App Store CLI for managing App Store installations
+brew "wget"                  # Command-line tool for downloading files
+brew "openssl"               # SSL/TLS toolkit for secure communications
+cask "google-chrome"         # Web browser for accessing online resources and management portals
+cask "visual-studio-code"    # Code editor for scripting and automation
+cask "zoom"                  # Video conferencing tool for remote support
+cask "teamviewer"            # Remote desktop access for supporting and managing devices
+cask "1password"             # Password manager for secure access to credentials

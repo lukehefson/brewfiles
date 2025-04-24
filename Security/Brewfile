@@ -1,0 +1,8 @@
+brew "nmap"                  # Network discovery and security auditing tool
+brew "wireshark"             # Network protocol analyzer
+brew "john"                  # Password cracker for security testing
+brew "aircrack-ng"           # Wireless network security suite
+brew "git"                   # Version control for security scripts
+cask "burp-suite"            # Web vulnerability scanner
+cask "visual-studio-code"    # Code editor with security extensions
+cask "iterm2"                # Enhanced terminal for security workflows

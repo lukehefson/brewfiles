@@ -1,0 +1,8 @@
+brew "python@3.11"           # Language for scripting and data processing
+brew "git"                   # Version control for data pipelines and scripts
+brew "apache-spark"          # Big data processing framework
+brew "kafka"                 # Distributed event streaming platform
+brew "hadoop"                # Distributed storage and processing for big data
+cask "visual-studio-code"    # Code editor for data engineering tasks
+cask "docker"                # Containerization for data processing services
+cask "dbeaver-community"     # Database management tool for various data sources

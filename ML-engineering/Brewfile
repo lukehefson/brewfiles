@@ -1,0 +1,10 @@
+brew "python@3.11"           # Python language interpreter for data processing and ML libraries
+brew "git"                   # Version control system for managing code
+brew "numpy"                 # Core library for numerical computations
+brew "scipy"                 # Scientific computing library
+brew "pandas"                # Data manipulation and analysis library
+brew "tensorflow"            # Deep learning framework
+brew "pytorch"               # Machine learning and deep learning framework
+cask "visual-studio-code"    # Code editor with extensive ML support
+cask "docker"                # Containerization tool for deploying models and environments
+cask "google-chrome"         # Web browser for research and visualization tools

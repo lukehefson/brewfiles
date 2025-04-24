@@ -1,0 +1,6 @@
+brew "git"                   # Version control for app source code
+brew "openjdk@11"            # Java Development Kit for Android
+brew "gradle"                # Build tool for Android projects
+cask "android-studio"        # Integrated development environment for Android apps
+cask "visual-studio-code"    # Lightweight code editor for supporting tools
+cask "google-chrome"         # Web browser for testing web components

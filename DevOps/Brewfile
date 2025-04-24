@@ -1,0 +1,8 @@
+brew "git"                   # Version control for configuration files
+brew "terraform"             # Infrastructure as code for managing cloud resources
+brew "ansible"               # Automation tool for configuration management
+brew "kubernetes-cli"        # CLI for managing Kubernetes clusters
+brew "helm"                  # Kubernetes package manager for deploying applications
+cask "visual-studio-code"    # Code editor with extensive DevOps extensions
+cask "docker"                # Container management for CI/CD workflows
+cask "iterm2"                # Enhanced terminal for command-line workflows
